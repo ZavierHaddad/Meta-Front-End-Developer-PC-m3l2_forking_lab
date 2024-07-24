@@ -11,3 +11,8 @@ Fuchsia
 Purple
 Brown
 Red
+Lets mix it up! Ill add some pet names next:
+-Dixie
+-Luna
+-Loki
+-Rex
